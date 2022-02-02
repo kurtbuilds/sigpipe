@@ -4,6 +4,7 @@ version = "0.1.2"
 edition = "2021"
 description = "A single function call to reset SIGPIPE and fix `failed printing to stdout`"
 license = "MIT"
+repository = "https://www.github.com/kurtbuilds/sigpipe"
 
 keywords = [
     "sigpipe",
