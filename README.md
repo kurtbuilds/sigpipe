@@ -1,26 +1,26 @@
 <div id="top"></div>
 
 <p align="center">
-<a href="https://github.com/kurtbuilds/pipefix/graphs/contributors">
-    <img src="https://img.shields.io/github/contributors/kurtbuilds/pipefix.svg?style=flat-square" alt="GitHub Contributors" />
+<a href="https://github.com/kurtbuilds/sigpipe/graphs/contributors">
+    <img src="https://img.shields.io/github/contributors/kurtbuilds/sigpipe.svg?style=flat-square" alt="GitHub Contributors" />
 </a>
-<a href="https://github.com/kurtbuilds/pipefix/stargazers">
-    <img src="https://img.shields.io/github/stars/kurtbuilds/pipefix.svg?style=flat-square" alt="Stars" />
+<a href="https://github.com/kurtbuilds/sigpipe/stargazers">
+    <img src="https://img.shields.io/github/stars/kurtbuilds/sigpipe.svg?style=flat-square" alt="Stars" />
 </a>
-<a href="https://github.com/kurtbuilds/pipefix/actions">
-    <img src="https://img.shields.io/github/workflow/status/kurtbuilds/pipefix/test?style=flat-square" alt="Build Status" />
+<a href="https://github.com/kurtbuilds/sigpipe/actions">
+    <img src="https://img.shields.io/github/workflow/status/kurtbuilds/sigpipe/test?style=flat-square" alt="Build Status" />
 </a>
-<a href="https://crates.io/crates/pipefix">
-    <img src="https://img.shields.io/crates/d/pipefix?style=flat-square" alt="Downloads" />
+<a href="https://crates.io/crates/sigpipe">
+    <img src="https://img.shields.io/crates/d/sigpipe?style=flat-square" alt="Downloads" />
 </a>
-<a href="https://crates.io/crates/pipefix">
-    <img src="https://img.shields.io/crates/v/pipefix?style=flat-square" alt="Crates.io" />
+<a href="https://crates.io/crates/sigpipe">
+    <img src="https://img.shields.io/crates/v/sigpipe?style=flat-square" alt="Crates.io" />
 </a>
 
-# pipefix
+# sigpipe
 
 The default Rust runtime panics when `println!` and family write to a closed 
-pipe. `pipefix` fixes it with a single function call invoked at the start of your program.
+pipe. `sigpipe` fixes it with a single function call invoked at the start of your program.
 
 # Usage
 
