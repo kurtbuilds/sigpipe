@@ -1,6 +1,6 @@
 [package]
 name = "sigpipe"
-version = "0.1.0"
+version = "0.1.1"
 edition = "2021"
 description = "A single function call to reset SIGPIPE and fix `failed printing to stdout`"
 license = "MIT"
