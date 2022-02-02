@@ -35,11 +35,11 @@ fn main() {
 # Installation
 
     # Using cargo-edit
-    cargo add pipefix
+    cargo add sigpipe
 
     # In your Cargo.toml
     [dependencies]
-    pipefix = "0.1"
+    sigpipe = "0.1"
 
 # Discussion
 
