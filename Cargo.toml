@@ -7,7 +7,7 @@ license = "MIT"
 
 keywords = [
     "sigpipe",
-    "broken pipe",
+    "broken-pipe",
     "signal",
     "stdout",
     "println",
